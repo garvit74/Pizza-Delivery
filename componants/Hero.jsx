@@ -27,7 +27,7 @@ export default function Hero() {
                 </div>
 
                 <span className={css.miniText}>
-                    mnis accusamus molestiae suscipit. Ipsum quod corrupti dolorem natus animi tenetur quis, repellendus incidunt.
+                Hot and fresh pizza, delivered to your doorstep!
                 </span>
 
                 <button className={`btn ${css.btn}`}> Get started</button>
